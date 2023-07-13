@@ -1,0 +1,28 @@
+Rate parity
+The Rate Parity report allows you to see your own room rates across a range of channels including your own website if you use SiteMinder’s Booking Engine. This is important because your ranking on some OTAs may be affected if your rates are not in parity across the channels you are connected to.
+
+The Rate Parity report currently supports Booking.com, Expedia, Agoda, Traveloka and HRS, as well as your own website if it is connected to SiteMinder’s Booking Engine. If your property is not connected to one of those channels, rates information for this channel will not display.
+
+
+The Rate Parity report allows you to display room rates using the following filters:
+
+Rate type - the options are:
+
+    Lowest rate - The lowest public available rate regardless of cancellation policy
+    Highest rate - The highest public available rate regardless of cancellation policy
+
+Number of nights (up to 7 nights)
+
+Number of guests (1 or 2 guests)
+
+Tax Toggle
+You can find the tax toggle at the bottom right of the page. This allows you to easily toggle between base and fully inclusive rates. 
+Fully inclusive rates include all taxes and fees listed separately from the room rate. 
+This data has been sourced from all connected channels. 
+
+
+You may retrieve 14 days of rates information at any time by selecting the dates you are interested in and clicking the ‘Refresh rates’ button. After clicking the button, a grey progress bar appears below each rate. This means the rate refresh is still in progress. Once a rate is successfully refreshed, the grey progress bar turns green and disappears. If a rate cannot be refreshed, the progress bar turns red.
+
+Please note: refreshing rates times out in approximately two minutes. After this time, any unloaded rates will not be retrieved while on the page. To retrieve unloaded rates press the ‘Refresh rates’ button again.
+
+User-added image

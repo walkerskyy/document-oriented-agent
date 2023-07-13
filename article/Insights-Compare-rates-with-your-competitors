@@ -1,0 +1,115 @@
+Compare rates with your competitors using Insights
+
+Explore other articles on this topic.
+
+    Insights
+
+Compare rates with your competitors
+Contents
+
+    The competitor rates report
+        Comparison graph
+        Rates grid
+        Filtering rates
+        Refreshing rates
+    Manage your competitors
+    Enable pricing comparison rules
+    Set up and compare room types
+
+   
+The Competitor rates report
+The Competitor rates report in Insights provides real-time rate intelligence on your competitors from Booking.com, allowing you to compare competitor rates with your own rates and providing you with the information you need to make informed pricing decisions with confidence. 
+
+The report shows you a period of two weeks. You can change the displayed dates by clicking on the calendar symbol in the top left and selecting a two week period, or by clicking the arrows to the left and right of the comparison graph's dates to go back to the previous or the next two weeks. 
+
+
+Exporting the report
+The rates grid can also be exported as a .CSV file.
+To do this, simply click the Export button and select the dates you want to export. The rates report will then be downloaded to your computer.
+   
+Comparison Graph
+The comparison graph shows you a visual representation how your rates compare with those of your competitors.
+Your hotel rates are represented by the blue line, with a shaded area underneath it to help you easily distinguish which of your competitors are above or below your rate. You can hover over any point on the graph to see which line responds to which hotel, and what their rate is for that date, according to the selected filters.
+
+comparison graph
+
+   
+Rates grid
+The rates grid shows your room rates and your competitors room rates. 
+For your own rates, it will also show you how your rate differs in percentage from the median rate of your competitors' rates, and how many rooms you sold on a day. 
+If you click on the number of Rooms sold, you can see a comparison of your rate with the median rate, and of the amount of rooms sold this and last year.  
+Beneath your own rates, the rates grid will show you the median rate of your selected competitors, and a row for each of your competitors with their rates.
+You can select or deselect competitor hotels using the checkboxes next to their hotel names. Deselecting a hotel removes it from the comparison graph, and their rates will no longer be calculated in the median rate. 
+If you click on any rate in the rates grid, it will display the room type for this rate, when it was retrieved, and the room rate currency.  
+
+Tax Toggle
+You can find the tax toggle at the bottom right of the page under Settings. This allows you to easily toggle between base and fully inclusive rates. Fully inclusive rates include all taxes and fees listed separately from the room rate. 
+
+   
+Filtering rates
+You can choose which rates you wish to compare using the filters on top of the page:
+
+    Rate type - the options are:
+        Lowest rate - The lowest public available rate regardless of cancellation policy
+        Best flexible rate - The lowest public available rate where a partial or full refund is given to the guest on cancellation
+        Highest rate - The highest public available rate regardless of cancellation policy
+    Number of nights - You can filter rates for up to 30 nights stay
+    Number of guests - You can filter rates for up to 6 guests
+    Room type - You can compare specific room types. Please see Set up and Compare Room Types
+    Meal plans included - You can filter rates by what kind of meals they include
+
+   
+Refreshing the rates
+The rates displayed can be updated by clicking the blue Refresh rates button in the top right.
+After clicking the button, you will notice a grey progress bar below each rate. This means the rate refresh is still in progress. 
+Once a rate is successfully refreshed, the grey progress bar will turn green and disappear. If a rate cannot be refreshed, the progress bar will turn red. 
+
+If there is no availability for your competitors on a particular date, the rates grid will display SOLD for that date. 
+In some instances, a competitor hotel may not have a room available for the filter selection you have applied. In this case, the rates grid will display N/A for that date.
+ 
+⚠️ Refreshing rates will time out in approximately two minutes. After this time, any uploaded rates will not be retrieved while on the page. To retrieve unloaded rates, press the Refresh rates button again. 
+ 
+No rates appear for your hotel/competitors
+If you refresh the rates, and no rates, nor SOLD or N/A displays in the report, check the availability for this hotel on Booking.com. 
+The property may be completely closed on Booking.com. In this case, the top of this property's listing in Booking.com will show a red banner that will describe why rooms are unavailable.
+   
+Manage your competitors
+The Competitor rates report allows you to compare room rates with up to 10 competitors. To add, change or delete competitors from your list, click on Manage competitors below the rates grid, or navigate to Manage competitors in the Settings menu. 
+
+The Manage competitors page allows you to search for competitor hotels by name or address using the search box. When you have found the hotel you are looking for, click it and it will be added to your competitor list. You can also add a hotel to the list by locating and clicking on it on the map.
+You can remove hotels from your list, by clicking the delete icon next to it in the list. 
+The order that your competitor hotels appear in the rates grid may also be changed by simply dragging and dropping hotels in the desired order. 
+
+When you have finished editing your competitor hotels, click Done to save your list before returning to the competitor rates report. 
+ 
+⚠️ Refreshing rates will time out in approximately two minutes. After this time, any uploaded rates will not be retrieved while on the page. To retrieve unloaded rates, press the Refresh rates button again. 
+ 
+A competitor cannot be found
+If you are unable to locate a competitor under Manage competitors, it might be because your competitor is not live on Booking.com.
+
+If your competitor is live on Booking.com, but you are still unable to locate them within Insights, please contact Support and provide them with the Booking.com URL of your competitor. Our Support team can then manually add this competitor into Insights for you. 
+   
+Enable pricing comparison rules
+Pricing comparison rules show you when your room rates are significantly different than those of your competitors.
+You can enable or disable pricing rules by clicking on the Pricing comparison rules slider at the bottom of the competitor rates report page. 
+If you click the upwards arrow to the left of Pricing comparison rules, you can adjust the percentages of the two Pricing comparison rules, Lower price rule and Higher price rule. Whenever your rate is lower or higher than the median rate by the specified percentage, your rate on that date will be highlighted in green or in red, so you can quickly see when your own rate is very different from those of your competitors. 
+ 
+pricing rules
+   
+Set up and compare room types
+Using the room type filter in the Competitor rates report, you can compare rates for specific room types. To start generating these rates in the grid, you first need to match your room types to those of your selected competitors. 
+
+You can do this by clicking on the Room type filter in the Competitor rates report and clicking Match to activate next to your room types in the filter, or by navigating to Manage room types in the Setting menu.
+ 
+⚠️ Since Insights uses Booking.com to gather data, the room types correspond to those in Booking.com rather than your Channel Manager
+
+When matching room types, simply click on the room type you wish to match in Manage room types, and then select the corresponding room type for each of your competitors. Repeat this for each of your room types so you can filter rates for each of them in the Competitor rates report. 
+
+You can change competitor room types at any time by returning to Manage room types and changing the selection for each competitor. 
+When changing or matching room types for the first time, you will need to click Refresh rates in the Competitor rates report to retrieve new rates. 
+
+match room types
+ 
+Compare rates with your competitors using Insights
+Insights-Compare-rates-with-your-competitors
+Competitor rates report | Comparions graph | Rates grid | Filtering rates | Refreshing rates | Manage your competitors | Enable pricing comparison rules | Set up and compare room types
