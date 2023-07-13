@@ -8,9 +8,15 @@ Using Vector DB, Langchain and ChatGPT to get enhanced Responses and Cited Sourc
 - run `docker-compose up` to start container
 - app will start on `localhost:1010`
 
+
+OR:
+- use python 3.9
+- `pip install --no-cache-dir -r requirements.txt`
+- `uvicorn main:app --host 0.0.0.0 --port 1010 --reload --log-level debug --use-colors`
+
 ### 
 
-- Sample query:
+- Usage:
 `GET http://0.0.0.0:1010/query`
 - Payload:
 

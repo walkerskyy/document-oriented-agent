@@ -42,7 +42,7 @@ async def startup_event():
     """
     Load all the necessary models and data once the server starts.
     """
-    app.directory = '/app/article/'
+    app.directory = os.getcwd() + '/article/'
     app.documents = load_docs(app.directory)
     app.docs = split_docs(app.documents)
 
